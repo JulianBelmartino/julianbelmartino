@@ -14,6 +14,10 @@
 
 ###
 
+<p align="left">✨ Email:<br>belmartinojulian@gmail.com</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
